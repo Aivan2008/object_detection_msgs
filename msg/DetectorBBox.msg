@@ -1,0 +1,6 @@
+string label
+float64 conf
+float64 x_min
+float64 y_min
+float64 x_max
+float64 y_max
